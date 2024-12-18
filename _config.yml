@@ -32,7 +32,9 @@ port: 8090
    
 sass:
   sass_dir: _sass
-  
+
+remote_theme: samarsault/plainwhite-jekyll
+ 
   
 # Build settings
 theme: plainwhite

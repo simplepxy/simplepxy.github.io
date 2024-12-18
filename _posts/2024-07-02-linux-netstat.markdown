@@ -15,7 +15,7 @@ netstat -tunlp |grep "4001"
 
 比如我要查看centos中4001端口被哪个程序所占用，就可以使用上面的命令来显示。
 
-<img src="..\assets\img\PixPin_netstat_20241218.png" style="zoom:200%;" />
+<img src="/assets/img/PixPin_netstat_20241218.png" style="zoom:200%;" />
 
 - t ：显示TCP连接
 - u：显示UDP连接
@@ -29,7 +29,7 @@ netstat -tunlp |grep "4001"
 netstat -tunlp|grep 
 ```
 
-<img src="D:\simplepxy.github.io\assets\img\PixPin_netstat_2024121802.png" style="zoom:200%;" />
+<img src="/assets/img/PixPin_netstat_2024121802.png" style="zoom:200%;" />
 
 
 
