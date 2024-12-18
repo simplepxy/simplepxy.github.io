@@ -37,7 +37,7 @@ remote_theme: samarsault/plainwhite-jekyll
  
   
 # Build settings
-theme: plainwhite
+#theme: plainwhite
 
 plainwhite:
   name: simplecc
