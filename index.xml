@@ -3,7 +3,17 @@
         <title>My New Hugo Site</title>
         <link>http://localhost:1313/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Sat, 15 Mar 2025 23:19:15 &#43;0800</lastBuildDate>
             <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-        </channel>
+        <item>
+    <title>vmware中自动挂载共享文件夹的问题</title>
+    <link>http://localhost:1313/posts/vmware_share_files/</link>
+    <pubDate>Sat, 15 Mar 2025 23:19:15 &#43;0800</pubDate>
+    <author>simplepxy</author>
+    <guid>http://localhost:1313/posts/vmware_share_files/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/images/wallhaven-rrk8xq.jpg" referrerpolicy="no-referrer">
+            </div><p>安装<code>vmware</code>之后，想要使用共享文件夹，按照向导执行操作之后，共享文件夹还是没有出现。这个时候还需要手动挂载一下这个文件夹，使用下面的命令执行挂载。</p>]]></description>
+</item>
+</channel>
 </rss>
